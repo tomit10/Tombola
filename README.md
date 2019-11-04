@@ -1,2 +1,2 @@
 # Tombola
-A simplified version of the Tombola in Java (Italian game)
+A simplified version of Bingo in Java
